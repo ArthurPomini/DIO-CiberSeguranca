@@ -1,0 +1,6 @@
+Como se proteger?
+
+1. Antivirus e Firewalls sempre atualizados
+2. Monitoramente de aplicativos
+3. Consciencia do usuario
+4. Utilizar ambientes isolados para testes (maquinas virtuais, cabo de rede desconectado, etc)
